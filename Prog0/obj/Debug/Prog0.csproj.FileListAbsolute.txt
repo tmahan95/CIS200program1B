@@ -1,0 +1,36 @@
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_13F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_14F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_15U\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS200\CIS200_16F\Progs\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\obj\Debug\Prog0.exe
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\obj\Debug\Prog0.pdb
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\bin\Debug\Prog0.exe
+C:\Users\tim.mahan\Downloads\Prog0\Prog0\bin\Debug\Prog0.pdb
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\bin\Debug\Prog0.exe.config
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\obj\Debug\Prog0.pdb
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\bin\Debug\Prog0.exe
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\bin\Debug\Prog0.pdb
+C:\Users\tim.mahan\Documents\School\Junior Year, Fall Semester\CIS 200\Program 1A\Prog1A\Prog0\obj\Debug\Prog0.csprojResolveAssemblyReference.cache

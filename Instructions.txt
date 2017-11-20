@@ -1,0 +1,11 @@
+Purpose: This program explores the use of LINQ to produce simple reports.
+
+In this assignment, you will use the Parcel class hierarchy developed for Program 1A (either your solution or your instructor's) in a simple test program. Primarily, you will be displaying reports generated using LINQ. To start, you need to create enough test data to produce useful results for the queries that follow. You will need at least 8 Address objects with different zipcodes to be used as origin and destination addresses with your parcels. You'll also need to create several instances of each concrete class to add to the list of Parcel objects being maintained. All test data may be hard-coded using magic numbers. Use LINQ to create a result variable for each report specified below then display each report, labeling each in the output.
+
+Reports - You must use LINQ to produce
+
+Select all Parcels and order by destination zip (descending)
+Select all Parcels and order by cost (ascending)
+Select all Parcels and order by Parcel type (ascending) and then cost (descending)
+Hint: Do not hard code the Parcel types. Instead, explore use of the GetType() method combined with ToString() to retrieve the class name from each object as a string.
+Select all AirPackage objects that are heavy and order by weight (descending)
